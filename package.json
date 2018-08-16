@@ -1,0 +1,28 @@
+{
+  "name": "node_zmq",
+  "version": "1.0.0",
+  "description": "node zmq service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jang-git/node_zmq.git"
+  },
+  "keywords": [
+    "nodejs",
+    "zmq"
+  ],
+  "author": "Jang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jang-git/node_zmq/issues"
+  },
+  "homepage": "https://github.com/jang-git/node_zmq#readme",
+  "dependencies": {
+    "superagent": "^3.8.3",
+    "superagent-charset": "^1.2.0",
+    "zeromq": "^4.6.0"
+  }
+}
